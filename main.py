@@ -46,7 +46,7 @@ class SinglyLinkedList:
     def clear(self):
         return
 
-    def search(self, data):
+    def get_data(self, data):
         return
 
     def delete(self, data):
