@@ -18,7 +18,7 @@ class SinglyLinkedList:
 
         if self.head == None:  # if the node is empty, the new node is the head
             self.head = node
-        else:  # if not empty iterate through items and append new node
+        else:  # if not empty iterate through items and append new node at the end (tail)
             current = self.head
             while current.next:
                 current = current.next
