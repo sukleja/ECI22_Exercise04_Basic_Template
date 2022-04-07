@@ -54,7 +54,8 @@ class SinglyLinkedList:
 
 
     '''Exercise Part 4: Copy the code from the singly linked list implementation and rewrite it
-    to implement a doubly linked list according to the exercise sheet
+    to implement a doubly linked list according to the exercise sheet. Dont forget to change the names of the classes
+    in the code to reflect the new class name (NodeDLL instead of Node).
     '''
 
 class NodeDLL:
